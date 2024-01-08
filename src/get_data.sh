@@ -1,0 +1,1 @@
+kaggle datasets download -d hasibalmuzdadid/shoe-vs-sandal-vs-boot-dataset-15k-images -p ../data/ --unzip
