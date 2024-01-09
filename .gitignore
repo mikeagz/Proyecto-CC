@@ -3,4 +3,6 @@ ddpm-shoes-128/scheduler/
 ddpm-shoes-128/unet/
 ddpm-shoes-128-v3/scheduler/
 ddpm-shoes-128-v3/unet/
+ddpm-shoes-128-v4/scheduler/
+ddpm-shoes-128-v4/unet/
 wandb/
